@@ -6,11 +6,9 @@
 
 ---
 
-«Con la piedra se afila: lo romo se vuelve filo.»
+Estudio Ciencias de la Información Geográfica, con foco en WebGIS 3D. Mi forma de aprender es más bien «buscar la herramienta cuando aparece el problema»: si había que tratar datos espaciales, me metí en PostGIS; si quería meter una ciudad en el navegador, aprendí Cesium; si quería que el flujo de análisis se ejecutara solo, investigué cómo un agente orquesta sus herramientas. Lo que construyo ahora ha crecido así, poco a poco.
 
-Estudié Ciencias de la Información Geográfica y desarrollo WebGIS 3D. Un hierro romo solo se vuelve filo cuando pasa por la piedra; yo lo tomo como criterio para elegir proyectos: no los fáciles, sino los que de verdad me afilan.
-
-Lo último que afilé es「碳语智图」(*Carbon-Speech Smart Map*): un agente de IA que organiza por sí mismo sus herramientas de análisis espacial, mide las emisiones de carbono en un radio de 800 m alrededor de la Universidad de Wuxi y redacta las conclusiones como informe, todo sobre una escena 3D de Cesium.
+*Con la piedra se afila: lo romo se vuelve filo.*
 
 ---
 

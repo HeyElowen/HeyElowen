@@ -6,11 +6,9 @@
 
 ---
 
+I'm studying Geographic Information Science, focused on 3D WebGIS. My way of learning is mostly "find the tool once the problem shows up": when I needed to handle spatial data, I dug into PostGIS; when I wanted to put a city in a browser, I learned Cesium; when I wanted the analysis pipeline to run itself, I looked into how an agent orchestrates its tools. Everything I build now has grown out of that, bit by bit.
+
 *Grind against the whetstone, and the blunt becomes sharp.*
-
-I studied Geographic Information Science and build 3D WebGIS. A dull blade only turns sharp once it has met the stone — I take that as my way of picking projects: not the easy ones, but the ones that genuinely sharpen me.
-
-The latest thing I sharpened is「碳语智图」(*Carbon-Speech Smart Map*): an AI agent that dispatches its own spatial-analysis tools, surveys the carbon emissions within 800 m of Wuxi University, and writes the findings up as a report — all on a 3D Cesium scene.
 
 ---
 

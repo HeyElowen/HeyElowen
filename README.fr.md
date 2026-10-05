@@ -6,11 +6,9 @@
 
 ---
 
-« C'est à la pierre qu'on affûte : ce qui est émoussé devient tranchant. »
+J'étudie les sciences de l'information géographique, avec un axe WebGIS 3D. Ma façon d'apprendre, c'est plutôt « chercher l'outil une fois le problème posé » : pour traiter des données spatiales, je me suis plongé dans PostGIS ; pour mettre une ville dans le navigateur, j'ai appris Cesium ; pour que la chaîne d'analyse tourne toute seule, j'ai étudié comment un agent orchestre ses outils. Ce que je construis aujourd'hui a poussé comme ça, petit à petit.
 
-J'ai étudié les sciences de l'information géographique et je développe du WebGIS 3D. Un fer émoussé ne devient tranchant qu'après être passé sur la pierre ; j'en ai fait mon critère de choix de projets : pas les plus faciles, mais ceux qui m'affûtent vraiment.
-
-Le dernier en date, c'est「碳语智图」(*Carbon-Speech Smart Map*) : un agent IA qui orchestre lui-même ses outils d'analyse spatiale, mesure les émissions de carbone dans un rayon de 800 m autour de l'université de Wuxi, puis en rédige un rapport — le tout dans une scène 3D Cesium.
+*C'est à la pierre qu'on affûte : ce qui est émoussé devient tranchant.*
 
 ---
 
